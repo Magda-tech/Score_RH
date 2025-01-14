@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 # Caminho para o arquivo .db
-db = "C:/Users/Magda/Downloads/teste___desafio_técnico_-_analista_de_dados_pleno_anexo.db"
+db = #"caminho do arquivo na máquina"
 
 # Conecte ao arquivo .db
 conn = sqlite3.connect(db)
