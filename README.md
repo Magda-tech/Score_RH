@@ -50,3 +50,5 @@ print(df_scores.head())
 ## 📄 Licença
 
 Este projeto está disponível sob a [Licença MIT](LICENSE).
+## Autora: Magda Monteiro
+Data: 02/2025
