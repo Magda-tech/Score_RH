@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 # Caminho para o arquivo .db
-db = #"caminho do arquivo na máquina"
+db = #"caminho do arquivo banco_de_dados.db na sua máquina"
 
 # Conecte ao arquivo .db
 conn = sqlite3.connect(db)
