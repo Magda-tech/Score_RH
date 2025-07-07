@@ -37,7 +37,7 @@ Cada um dos critérios retorna um valor entre 0 e 100, e o score final também �
 
 ## 📌 Observações
 
-- O caminho do banco de dados está fixo e pode precisar ser ajustado antes da execução.
+- O caminho do banco de dados precisa ser ajustado antes da execução.
 - O script não realiza escrita em banco ou exportação de resultados — apenas gera os scores em memória com um DataFrame.
 
 ## ✅ Exemplo de uso
