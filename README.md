@@ -22,7 +22,7 @@ Este projeto tem como objetivo calcular um **score de compatibilidade** entre ca
 ## 📁 Estrutura
 
 - `score_rh.py`: script principal que carrega os dados do banco, realiza os cálculos e retorna um DataFrame com os scores dos candidatos por vaga.
-- Banco de dados `.db`: não incluído no repositório, mas esperado no caminho local definido na variável `db`.
+-  `banco_de_dados.db`: esperado no caminho local definido na variável `db`.
 
 ## 🧮 Fórmula do Score Total
 
